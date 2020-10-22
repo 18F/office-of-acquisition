@@ -36,7 +36,7 @@ Although we are currently seeking vendors that have a GSA MAS Schedule contract,
  
 Any questions concerning this RFI should be submitted by at least 24 hours before the due date. Questions may be submitted via email to megan.reed@gsa.gov and lora.zuo@gsa.gov. 
  
-Vendors should note that, while we will attempt to do so, TTS may not be able to respond to all questions concerning the RFI. Any Q&A responses will be posted to GitHub. There is also a RFI notice posted on eBuy under #RFQ1464826 for the above Schedule Category Numbers.
+Vendors should note that, while we will attempt to do so, TTS may not be able to respond to all questions concerning the RFI. Any Q&A responses will be posted to [GitHub Issues](https://github.com/18F/office-of-acquisition/issues). There is also a RFI notice posted on eBuy under #RFQ1464826 for the above Schedule Category Numbers.
 
 ## Instructions
 
@@ -86,7 +86,7 @@ The following are high-level objectives for this potential procurement.
 
 GSA IT may require documentation attesting to the below standards depending on the vendor deployment method:
 
-1. [NIST SP800-63-3A)](https://pages.nist.gov/800-63-3/sp800-63a.html)
+1. [NIST SP800-63-3A](https://pages.nist.gov/800-63-3/sp800-63a.html)
 2. [NIST SP800-171 Rev 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 3. FedRAMP Moderate
 
@@ -125,9 +125,9 @@ Please provide your feedback using the google form [here](https://forms.gle/TBDV
 3. Can you meet Performance Objective 3? _(Y/N)_
 4. If you answered “No” or “Maybe” to any of the previous questions, you have the option to explain. _(free form)_
 5. Describe any prior relevant experience, federal or private. _(free form)_
-6. The rough order magnitude of identity proofing transactions is estimated at 1-5 million. Please provide estimates per transaction cost and any volume discount 7. tiering for both in-person and remote proofing. _(free form)_
-8. What potential solutions do you offer for filling gaps in identity proofing services? _(free form)_
-9. Can you provide data on accessibility (% verified) and accuracy (% successful) of your potential solution(s)? For example, are there any accessibility barriers for specific solutions (in-person vs remote vs other)? _(free form)_
+6. The rough order magnitude of identity proofing transactions is estimated at 1-5 million. Please provide estimates per transaction cost and any volume discount tiering for both in-person and remote proofing. _(free form)_
+7. What potential solutions do you offer for filling gaps in identity proofing services? _(free form)_
+8. Can you provide data on accessibility (% verified) and accuracy (% successful) of your potential solution(s)? For example, are there any accessibility barriers for specific solutions (in-person vs remote vs other)? _(free form)_
 
 ### Acquisition Strategy
 1. Provide any thoughts based on the draft requirement. _(free form)_
