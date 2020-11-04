@@ -1,1 +1,12 @@
+## 1.0 General
+
+This single award BPA is established under the contractor’s Federal Supply Schedule (‘FSS’ or just ‘Schedule) Contract (TBD at time of award), under Schedule 70 Special Item Number (SIN) 132-40, for Cloud Service Provider (CSP) Infrastructure-as-a-Service (IaaS) cloud services.
+
+## 2.0 Background
+
+GSA TTS requires an Infrastructure-as-a-Service (IaaS) solution to provide the government with on-demand Cloud IaaS access through available FedRAMP Authorized cloud service providers. TTS desires the ability for the reseller to provide a CSP(s) to not only be immediately and fully compatible with the applications that are currently operational for TTS (currently through Amazon Web Services), but TTS desires to experiment and sandbox with multiple FedRAMP Authorized CSPs over the life of the order in hopes of developing confidence in utilizing multiple CSPs.
+
+These IaaS solutions will help TTS support internal and external clients by providing a dedicated master payer account(s) for the CSP(s) solutions. These dedicated master payer account(s) must contain only GSA TTS accounts and GSA TTS requires direct control over the root accounts. In addition, the reseller must allow for ad-hoc creation and disposal of accounts under the master payer account. To that end, TTS requires the reseller to provide the ability to support other governmental agencies who have signed memorandums of understanding (MOUs) and/or interagency agreements with TTS. TTS also requires consolidated monthly billing, detailed billing and usage data, and access to the raw IaaS billing source data via the CSP(s) console. 
+
+Access to these services will be managed by TTS and used TTS-wide (and for TTS clients that TTS has an interagency agreement with at the time of award or executed during the life of the order) to ensure cloud services are consumed across TTS and clientbase with appropriate levels of governance, security, and technical integration with existing Information Technology (IT) services, and business integration with existing financial and contractual processes. This approach will greatly reduce the burden on the part of individual cloud users, organizations, programs, and projects, since a significant percentage of the requirements associated with federal agency use of commercial cloud services will be addressed and result in approved- for-use cloud services offered with facilitated access.
 
