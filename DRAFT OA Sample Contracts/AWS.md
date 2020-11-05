@@ -247,3 +247,414 @@ None, unless otherwise requested.
 
 None, other than access to the CSPs.
 
+## 5.0 Call Order/Contract Administration
+
+### 5.1 Government Points of Contact
+
+After initial BPA award, the government will share information related to the Contracting Officer and Contracting Officer Representative and their respective contact information.
+
+This acquisition will be administered by the following points of contact (POCs), who will also monitor the contractor’s performance:
+
+  1.	Contracting Officer (CO): Stephen Carroll
+  2.	Contracting Officer Representative (COR): TBD at time of award
+
+If a change occurs to either the CO or COR, the government will notify the contractor. Specifically for the COR, the contractor will receive a copy of ‘COR Delegation of Authority” assignment letter when a COR is assigned, and the contractor will also receive a letter rescinding the COR delegation when appropriate.
+
+It is expected that the CO and COR for the BPA will also be the same CO and COR for each order, however, others may assume those roles.
+
+### 5.2 Contractor Point(s) of Contact
+
+At a minimum, the Contractor shall identify at least one person that:
+* Has a full understanding of the technical solution presented through the Contractor’s quotation and delivered after award;
+* Will be a direct liaison to the GSA POCs whom the Government can reach out to with any questions or concerns about the administration of the contract.
+
+The Vendor must provide a single point of contact, whether an email address or individual, that can be contacted by GSA with any questions or concerns about the contract throughout the POP. This single point of contact is not to be considered Key Personnel. The information shall be uploaded through the ITSS Collaboration tool.
+
+### 5.3 Post Award Orientation Conference
+
+The government's team, CO/COR, and the TTS Product Owner will hold a kickoff meeting/post-award conference with the selected contractor within 10 calendar days of the BPA award for the AWS BPA. This kickoff will include the selected contractor’s team and other relevant government staff to review and clarify the project’s objectives, expectations from the government, and address any questions the selected contractor may have.
+
+For a BPA awarded for any FedRAMP Authorized CSP other than AWS, a kickoff will be held prior to when TTS has funding available for that CSP (if and when applicable).
+
+### 5.4 Inspection and Acceptance
+
+At time of award, the inspection and acceptance terms and conditions of the awardees Schedule Contract will apply.
+
+### 5.5 Contractor Performance
+
+In accordance with FAR 8.406-7 and FAR 42.1502(c), Past performance evaluations shall be prepared at least annually and at the time the work under the BPA or order is completed (to include options of the BPA) when an order, individually, exceeds the simplified acquisition threshold. These evaluations are generally for the entity, division, or unit that performed the contract or order. Past performance information shall be entered into CPARS, the Governmentwide evaluation reporting tool for all past performance reports on contracts and orders.
+
+### 5.6 Invoicing
+
+Note - As the BPA vehicle does not have attached funding, the information contained within this invoicing section shall apply and flow-down to Call Orders issued against the BPA. 
+
+Note 2 - Please note the LiSaaS requirements in Section 5.7. LiSaaS ATO shall be approved prior to acceptance of any invoicing.
+
+The contractor shall submit a proper invoice on a monthly basis in arrears (no later than five business days of the end of the month) based on actual usage minus applicable discounts. 
+
+#### 5.6.2 Content of Invoice
+
+The contractor will be provided with the following information when the Call Order has been awarded:
+
+* GSA Call Order Number
+* QP Number (funding document number)
+* Prompt Payment Discount
+* Remittance Address
+* POP for Billing Period
+* POC and Phone Number
+* Invoice Amount
+* Invoice Marked as ‘Final’
+* Name of CSPs matching award documents.
+* Via the CLIN structure outlined in the Call Order
+* Complete invoice breakout and consolidated billing information
+* Clear reflection of percent discount application to invoice
+
+All of this information, along with the Period of Performance covered by the invoice, must be included on each invoice in addition to the requirements for a proper invoice.
+
+All of this information must be included on each invoice in addition to the requirements for a proper invoice specified in FAR 52.212-4 (g) and the Prompt Payment clause, FAR 52.212-4(i)(2).
+
+The contractor will be expected to provide GSA TTS with a detailed consolidated monthly billing statement. The detailed billing statement will be provided for individual accounts and summarized at the master account level.
+  
+The consolidated detailed monthly billing will include usage data and billing discounts (for each account), as well as direct access to the awarded CSP consoles for the raw billing data. TTS does not prefer or desire 3rd party billing or dashboard tools.
+
+TTS makes no guarantee or commitment to quantity. 
+
+All invoices for each period of performance shall be submitted no later than 30 days after the end of the period of performance so that the performance period can be closed and unused ceiling and/or unused funding can be rolled forward as applicable in either case. After 30 days, the Government will consider all invoicing to be completed and the CLINs related to the period of performance shall be closed.
+
+The contractor must submit a final invoice within 30 calendar days after contract completion. No further charges are to be billed following the final invoice submission. 
+
+#### 5.6.3 Invoice Submission
+
+The Contractor shall submit invoices for this contract/order through the GSA Office of the Chief Financial Officer, Vendor and Customer Self Service (VCSS) web portal [https://vcss.ocfo.gsa.gov](https://vcss.ocfo.gsa.gov/).
+
+The funding reference to use when submitting invoices is the QP number referenced in the Call Order. Invoices submitted by the contractor in VCSS shall not contain any characters other than simply numbers and letters.
+
+Billing and payment shall be accomplished in accordance with contract terms and GSA payment procedures. 
+
+If you have problems submitting your invoice, please contact one of the following, as applicable.
+
+**VCSS General System, Login ID, Password Issues**
+	GSA Financial Systems Service Desk:
+	Ph: 866-450-6588
+	Email: OCFOServiceDesk@gsa.gov
+
+**Invoice & Payment Related Questions**
+	BCEB Help Desk:
+	Ph: 800-676-3690, Opt 3
+
+Fax: (816)926-7800
+	Email: kc-accts-payable.finance@gsa.gov
+
+**VCSS Inquiries with Invoicing Issues**
+	Email: kc-acctspayable.vcss@gsa.gov
+ 
+ ### 5.7 Termination for Cause
+
+If a CSP is delivered, but it does not conform to the order requirements, GSA shall take appropriate action in accordance with the inspection and acceptance clause of the contract, as supplemented by the order. If the contractor fails to perform an order or take appropriate corrective action, GSA may terminate the order for cause or modify the order to establish a new delivery date (after obtaining consideration, as appropriate). GSA shall follow the procedures in FAR 8.406-4 when terminating an order for cause. The Contracting Officer must send a cure notice prior to terminating an order for a reason other than late delivery. A cure notice is not needed when the reason for termination is late delivery. If the time remaining in the order delivery schedule is not sufficient to permit a realistic cure period of 10 days or more, the cure notice should not be issued and the performance period should be allowed to expire. 
+
+Note: The successful contractor must agree to comply with Low Impact Software-as-a-Service (LiSaaS) requirements and once the BPA is awarded achieve LiSaaS ATO prior to invoicing the government for services received under this BPA. And then no later of 1 year from date of award, they must achieve at least FedRamp Low (Tailored)  ATO. If not, the BPA will be terminated. A link to CIO-IT-09-48 (“IT Security Procedural Guide: Security and Privacy IT Acquisition Requirements”) is contained in Section 6.5. of this document.
+
+Once the contractor receives the cure notice, the contractor has the opportunity to remedy the problem.
+
+The Contracting Officer may terminate individual orders for cause. The GSA shall notify the Schedule Contracting Officer of all instances of termination for cause of individual orders or if fraud is suspected. If the contractor asserts that the failure was excusable, the Contracting Officer shall follow the procedures in FAR 8.406-6, as appropriate. 
+
+The ordering activity's Contracting Officer must report any terminations for cause to FAPIIS. See FAR 8.406-4(e) and 42.1503(f). 
+
+### 5.8 Termination for Convenience
+
+FAR 8.406-5 permits the Contracting Officer to terminate individual orders for the convenience of the government when it is in the government’s best interest. Terminations for convenience must comply with FAR 12.403. 
+
+### 5.9 Transition Activities
+
+For the AWS BPA, the contractor will be provided a two-week transition period (after the kick-off meeting). During the transition, the Vendor will be required to perform all necessary transition activities. Expected transition activities will include, but not be limited to:
+
+* Continuation of full services to TTS and customers.
+* Assistance with planning projections and purchasing units in the most advantageous manner
+
+Also see Section 4.5 of this BPA.
+
+### 5.10 Travel
+
+No travel is anticipated or will be required as part of this order.
+
+### 5.11 Quality Assurance
+
+#### 5.11.1 Place of Inspection and Acceptance
+
+Inspection and acceptance of all deliverables under this BPA/associated orders will be performed by the COR. The Vendor must deliver all items to the satisfaction of GSA TTS.  The COR will review the Monthly Cost Reports and all reports submitted by the Vendor to GSA to ensure compliance with this requirement and provide written feedback, if any, concerning the services during the performance of the BPA/associated orders. 
+
+#### 5.11.2 Nonconforming Product and Services
+
+Non-conforming services will be rejected. If the deficiencies cannot be corrected within ten (10) business days, the Vendor will immediately notify the COR of the reason for the delay and provide a proposed corrective action plan within five (5) work days.
+
+#### 5.11.3 Contractor Performance
+
+In accordance with FAR 42.1502(c), past performance evaluations shall be prepared at least annually and at the time the work under the BPA/associated orders are completed when an order, individually, exceeds the simplified acquisition threshold. These evaluations are generally for the entity, division, or unit that performed the contract or order. Past performance information shall be entered into CPARS, the Governmentwide evaluation reporting tool for all past performance.
+
+##### Quality Assurance Surveillance Plan
+
+1. PURPOSE
+
+This Quality Assurance Surveillance Plan (QASP) provides a systematic method for evaluating the performance of the reseller.  This QASP explains the following:
+ 
+* What will be monitored.
+* How monitoring will take place.
+* Who will conduct the monitoring.
+* How monitoring efforts and results will be documented.
+
+2.  This QASP does not detail how the Vendor accomplishes the work.  Rather, the QASP is created with the premise that the Vendor is responsible for management and quality control actions to meet the terms of the order.  It is the Government’s responsibility to be objective, fair, and consistent in evaluating performance.  In addition, the QASP should recognize that unforeseen and uncontrollable situations may occur.
+
+3.  This QASP is a “living document”. Either prior to award with the apparently successful Vendor and/or at the kickoff, the Government intends to work collaboratively with the Vendor on better defining (as applicable) the performance areas listed below. The Government may review and revise it on a regular basis.  However, the Government will coordinate changes with the contractor.  Updates shall ensure that the QASP remains a valid, useful, and enforceable document.  Revisions shall be provided to the contractor and Government officials implementing surveillance activities and will be modified into the order.
+
+**Performance Objectives** | **Performance Standards** | **Method of Surveillance** | **Acceptable Quality Levels** | **Incentive/
+Disincentive**
+------------ | -------------  | -------------  | ------------- | -------------
+Monthly Invoices	| Invoices shall be submitted within five business days of the end of the month. | Reviewing the date of the Invoice submission in the GSA invoicing portal of record. Monitored by both the CO and COR | At least 11 of 12 months of submitted invoices per period of performance are submitted within the performance standard	| CPARs Ratings and Narrative
+
+End of the Period of Performance Invoices |	All invoices for the period of performance just ending shall be submitted within 30 days after the end of the period of performance | Reviewing the GSA invoicing portal of record. Monitored by both the CO and COR | 100% within the performance standard |	CPARs Ratings and Narrative and the related CLIN for the period of performance will be closed
+
+Final Invoice	| The contractor must submit a final invoice within 30 calendar days after contract completion. |	Reviewing the GSA invoicing portal of record.
+Monitored by both the CO and COR	| 100% within the performance standard |	CPARs Ratings and Narrative and the related CLIN for the period of performance will be closed
+
+Provisioning	| TTS requests for new awarded CSP Master accounts shall be provisioned by the reseller within three business days |	Confirming the date of request email to the Vendor’s confirmation of provisioning and the Government acceptance of the account. | No less than 96% provisioned within three business days	| CPARs Ratings and Narrative
+
+Supplying Rates	| During any period of performance, the Vendor shall supply their Schedule Contract (or other catalog pricing tool/dashboard if TTS doesn’t already have native access) prices for each CSP upon request within three business days. | Confirming the date of request email to the Vendor’s submission. Monitored by the COR | No less than 96% within the performance standard	CPARs Ratings and Narrative
+
+Trend analysis for billing and usage to support planning and funding efforts |	At least twice per period of performance |	Confirming the Vendor’s submission. Monitored by both the CO and COR	| 100% within the performance standard |	CPARs Ratings and Narrative
+
+Consolidated Billing Services |	Consolidated billing services and all related capabilities shall be ready for TTS access within five (5) business days of requirement award.	| Government shall confirm with the Vendor via email that consolidated billing services and all related capabilities are ready with performance standard. Monitored by the COR and underlying root account users	| No errors. Capabilities are ready within the performance standard	| CPARs Ratings and Narrative
+
+4.  QUALITY SURVEILLANCE METHOD
+
+The government has defined the performance measures (see above) which will be monitored through surveillance of contractor activity, review of system reports, and resultant services.
+
+##### 5.11.4 Service Level Agreements
+
+The commercial Service Level Agreement (SLA) with each CSP shall be incorporated into the BPA (once reviewed and accepted by TTS) and serve as part of the quality assurance control plan (QASP). The TTS team, including mainly the COR, will monitor CSP performance against the SLA.
+
+Where a Commercial SLA with each CSP is not available, or silent in any of the areas below, the SLAs shall reflect at a minimum:
+
+* Response time (for tier 1 - tier 3 support, request/completion fulfillment, etc)
+  * Where the current commercial SLA does not specify, response time shall be no longer than 24 hours from time of request.
+
+* Response time related to billing/payment inquiries 
+  * Where the current commercial SLA does not specify, response time shall be no longer than 24 hours from time of request.
+
+* Reports (filtered by accounts)
+   * Where the current commercial SLA does not specify, response time shall be no longer than 24 hours from time of request.
+
+* Ability to measure the uptime percentage performance and define how uptime is calculated
+   * Where the current commercial SLA does not specify, monthly uptime percentage is calculated by subtracting from 100% the average of the Error Rates from each 5-minute interval in the monthly billing cycle.
+
+* Detail remedies that CSPs would pay to the agency if the CSP did not meet uptime requirements in accordance with NIST SP 800-146.
+* Where the current commercial SLA does not specify -
+  * anything less than 95.0% uptime shall receive a 100% service credit, 
+  * less than 99.0%, but greater than or equal to 95.5% shall receive a 50% service credit, and 
+  * less than 99.9%, but greater than or equal to 99.0% shall receive a 25% credit.
+
+* Automated tool to monitor and measure actual uptime and compare it to the uptime percentage specified in the order, and pursue credits when applicable in accordance with NIST SP 800-146.
+
+## 6.0 Terms and Conditions 
+
+**Terms and conditions previously negotiated and awarded on the contractor’s Schedule shall apply in addition to the below.**
+
+### 6.1 TTS Transparency Policy
+
+Vendors are advised that TTS reserves the right to publish documents associated with this acquisition on a publicly-available website, including any Requests for Quotation or their amendments, as well as question and answer exchanges with contractors without source-identifying information removed. TTS reserves the right to publish any other relevant information that is not confidential or proprietary in nature, but will not publish any source selection sensitive information that would otherwise implicate procurement integrity concerns.
+
+Upon award of the acquisition, TTS may publish the total price of the selected proposal and certain non-source-identifying data (e.g. the number of bids, the mean price, the median, and the standard deviation of price). During the performance of the BPA, TTS may similarly publish data related to project management (e.g. user stories, milestones, and performance metrics) and top-line spending data.
+
+### 6.2 Section 508 Compliance
+
+The Contractor shall support the government in its compliance with Section 508 throughout the development and implementation of the work to be performed.
+
+Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) requires that when Federal agencies develop, procure, maintain, or use electronic information technology, Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who do not have disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities, unless an undue burden would be imposed on the agency.
+
+Schedule products and services were already verified at the Schedule level.
+
+### 6.3 Data Rights and Ownership of Deliverables
+
+Terms and conditions previously negotiated and awarded on the contractor’s Schedule shall apply.
+
+The government intends that any software source code created as a result of the work performed under the BPA be publicly posted. Accordingly, FAR 52.227-17 (Rights in Data -- Special Works) will be included in the solicitation
+
+The government shall have unlimited rights in any data or deliverable created as a result of the work performed under the purchase order, including the output of SaaS analytics reports and dashboards.
+
+The contractor shall use open source technologies wherever possible, in support of the [18F source code policy](https://18f.gsa.gov/open-source-policy/). All licenses must be expressly listed in the deliverable. Regardless of license(s) used (i.e., MIT, GPL, Creative Commons CC0), the license(s) shall be clearly listed in the documentation.
+
+If an open source license provides implementation guidance, the contractor shall ensure compliance with that guidance. If implementation guidance is not available, the contractor shall attach or include the license within the work itself. Examples of this include code comments at the beginning of a file or contained in a license file within a software repository.
+
+### 6.4 Requirements for GSA Information Systems
+
+* ●	If the reselling contractor provides their own applications, tools, or dashboards other than the native applications, tools, or dashboards by the awarded CSPs, the contractor shall first notify the TTS Contracting Officer and Contracting Officer’s Representative. If approved by the CO and COR, the applications, tools, or dashboards (system) are subject to the requirements of Section 2 of GSA’s guide Security and Privacy Requirements for IT Acquisition Efforts [CIO-IT Security 09-48, Rev. 4] 01/25/2018 (and any future update of the guide) on a conditional basis.
+
+* Security
+  * Option to select CSP data hosting regions to restrict geographic boundaries, such as CONUS only regions for data availability
+  * Ability to verify where data is located at any point in time
+  * Meet regulatory compliance requirements throughout the life of the contract
+
+* FedRAMP
+
+If there is any conflict between the information below and the information from the CSPs FedRAMP Authorization, the FedRAMP Authorization information shall lead.
+
+  * The CSP sought under this requirement is required to be in conformance with the FedRAMP Program for services designated as being authorized by the FedRAMP Program.  Continued use of the CSP services is contingent upon the CSP’s on-going adherence to the FedRAMP Program and its Continuous Monitoring requirements for all services authorized under the FedRAMP Program.  Due to the rapid and continuous release of new services, there is often a significant period of time between when a CSP service is available and when it is authorized under the FedRAMP Program. 
+  
+  The FedRAMP Standard Requirements specifies the types of notifications required from a CSP to the Government.  Below are additional TTS requirements related to planned and scheduled maintenance, emergency maintenance and incident communications and responses.
+
+  * Planned and Scheduled Maintenance/Update of Hardware and Software
+  
+  The reseller shall make arrangements with TTS to ensure that any planned maintenance that will affect TTS’s ability to use the CSP’s services is communicated with TTS in advance, with as much lead time as possible.  TTS will also monitor the appropriate CSP web pages to maintain an awareness of scheduled maintenance affecting CSP resources and will take the appropriate operational steps to minimize impact and accommodate the scheduled maintenance.
+
+  * Emergency Maintenance/Update of Hardware and Software
+  
+  The reseller shall communicate with TTS in advance, with as much lead time as possible to ensure they are aware of any emergency or unscheduled maintenance that will affect TTS’s ability to use the CSP services.  The reseller’s communications to TTS should be emailed to the COR and should provide:
+    * Primary and alternate reseller points of contract for TTS to communicate with
+    * Emergency maintenance progress
+    * Notification when the activity is complete 
+
+  * Incident Communications and Responses
+  
+  As TTS increasingly relies on the use of CSP services, TTS must be absolutely certain that it will be promptly and adequately notified in the event of an incident that potentially will or is known to affect TTS cloud resources. TTS will continuously assess CSP posture via existing mechanisms under the FedRAMP Program which are designed to ensure CSPs are operating in a manner consistent with Federal security requirements, including Incident Communications and Response.  Notwithstanding the FedRAMP JAB’s documented Incident Communications Procedure for their current FedRAMP JAB PATOs, in the event of an incident, TTS prefers the most direct communication path between the CSP (or reseller) to eliminate delays in notification and response. TTS will continually assess the effectiveness of the CSP’s role in the FedRAMP Incident Communications and Response approach.  Due to the importance of IT security and maintenance of active PATOs, TTS reserves the right, at any time, to inform the CSP that TTS is discontinuing its use of the CSP services within a period of not less than 45 days.
+
+  * For Incidents Involving a Suspected or Confirmed Security Threat or 	Compromise 
+  
+  The reseller shall communicate and coordinate with TTS using specified secured communications approach and protocol agreed upon in advance by TTS and the reseller. Information shall be provided that enables TTS to effectively assess the incident for purposes of understanding which resources may be affected and determining appropriate contingency mechanisms.
+
+  * For Incidents Not Involving a Suspected or Confirmed Security Threat or Compromise
+  
+  The reseller shall communicate and coordinate with TTS in a way that is consistent with notifications provided to other federal government customers.  Information shall be provided that enables TTS to effectively assess the incident for purposes of understanding which resources may be affected and determining appropriate contingency mechanisms.
+
+### 6.5 Assessment and Authorization (A&A) Activities
+
+Governed by the terms of access allowed by the underlying infrastructure provider as defined in the IaaS’s FedRAMP A&A authorization package.
+If the reselling contractor provides their own applications, tools, or dashboards other than the native applications, tools, or dashboards by the awarded CSPs, the contractor shall first notify the TTS Contracting Officer and Contracting Officer’s Representative. If approved by the CO and COR, the applications, tools, or dashboards (system) are subject to the requirements of Section 2 of GSA’s guide Security and Privacy Requirements for IT Acquisition Efforts [CIO-IT Security 09-48, Rev. 4] 01/25/2018 (and any future update of the guide) on a conditional basis.
+
+### 6.6 Reporting and Continuous Monitoring
+GSA’s Continuous Monitoring Strategy (CIO IT Security 12-66 Rev 2 - dated 10/10/2017) can be [found at this link](https://www.gsa.gov/policy-regulations/policy/information-integrity-and-access/it-security-procedural-guides).
+
+### 6.7 Data Rights
+
+The commercial Terms and Conditions (T&C) for CSP data rights will be accepted to the extent not inconsistent with Federal law or Government needs. The contractor shall submit any T&Cs intended to bind the Government if and when requested by the Contracting Officer for Government review and approval prior to award. See also Section 6.10 below. If any conflicts, Section 6.10 below shall prevail.
+
+### 6.8 Data Privacy Requirements
+
+**Best Practice:** Data Privacy Requirements
+**Definition of Best Practice:** Ensure control of Account Root Credentials and Identity and Access Management
+
+**Responsibility of TTS** | **Responsibility of Vendor** 
+-------------  | -------------
+Request new TTS CSP Master Accounts from Vendor.	| Provide TTS with temporary root credentials for their Accounts when new Master Accounts are requested by TTS
+Accept temporary root credentials from Vendor for new TTS CSP Master Accounts and then immediately change the root credentials to eliminate Vendor root access to Master Accounts	| Operate without requiring Vendor reseller ability to access TTS CSP Master and Member Account capabilities and other Account information consolidated billing
+Maintain all root credentials for TTS CSP Member Accounts	| Execute addendum to CSP reseller agreement for each TTS CSP account that requires TTS ownership of root credentials
+Manage all Identity and Use multifactor authentication for TTS CSP Accounts where determined appropriate	| Establish additional TTS Master CSP accounts as requested by the TTS CO and/or COR
+  | Use multifactor authentication for TTS provisioned IAM access to Billing and Cost Management Master Accounts
+  | Do not provide any form of access or disclosure in response to an external or third party request for TTS information or resources used or operated within CSP without first receiving TTS approval
+  
+### 6.9 Data Privacy Requirements
+
+The contractor shall implement the controls contained within the FedRAMP Cloud Computing Security Requirements Baseline and FedRAMP Continuous Monitoring Requirements for the full spectrum (Low, Moderate, High) impact systems (as defined in FIPS PUB 199). These documents define requirements for compliance to meet minimum Federal information security and privacy requirements for Low, Moderate, or High impact systems. The FedRAMP baseline controls are based on NIST Special Publication 800-53, Revision 4, “Security and Privacy Controls for Federal Information Systems and Organizations” (as amended), and also includes a set of additional controls for use within systems providing cloud services to the federal government.
+The contractor shall generally, substantially, and in good faith follow FedRAMP guidelines and Security guidance. In situations where there are no procedural guides, the contractor shall use generally accepted industry best practices for IT security.
+GSA may choose to cancel the contract and terminate any outstanding orders if the contractor, or the Cloud Services Provider it is reselling, has its FedRAMP authorization (Joint Authorization Board [JAB] Provisional or Agency) revoked and the deficiencies are greater than agency risk tolerance thresholds.
+For more information, see GSA’s guide Security and Privacy Requirements for IT Acquisition Efforts [CIO-IT Security 09-48, Rev. 4] 01/25/2018. The guide, and any future updates, is hereby incorporated.
+
+## 7.0 Clauses
+
+All clauses included and accepted as part of the quoter’s Schedule Contract shall flowdown to this RFQ. In the event of any conflict between the Schedule contract and the BPA, the terms and conditions of the Contractor’s Schedules shall prevail over the BPA and Task Orders, except to the extent that any discounts established in the BPA or its orders take precedence over any Schedule contract higher prices.
+
+**FAR 52.252-2 CLAUSES INCORPORATED BY REFERENCE (FEB 1998)**
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at this/these address(es): [https://www.acquisition.gov/browsefar](https://www.acquisition.gov/browse/index/far)
+
+**52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2019)**
+
+(a) Definitions. As used in this clause—
+    
+    “Covered foreign country” means The People’s Republic of China.
+     
+     “Covered telecommunications equipment or services” means–
+           
+           (1) Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such entities);
+          
+          (2) For the purpose of public safety, security of Government facilities, physical security surveillance of critical infrastructure, and other national security purposes, video surveillance and telecommunications equipment produced by Hytera Communications Corporation, Hangzhou Hikvision Digital Technology Company, or Dahua Technology Company (or any subsidiary or affiliate of such entities);
+           
+           (3) Telecommunications or video surveillance services provided by such entities or using such equipment; or
+           
+           (4) Telecommunications or video surveillance equipment or services produced or provided by an entity that the Secretary of Defense, in consultation with the Director of National Intelligence or the Director of the Federal Bureau of Investigation, reasonably believes to be an entity owned or controlled by, or otherwise connected to, the government of a covered foreign country.
+   
+   “Critical technology” means–
+          
+          (1) Defense articles or defense services included on the United States Munitions List set forth in the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations;
+          
+          (2) Items included on the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations, and controlled-
+                
+                (i) Pursuant to multilateral regimes, including for reasons relating to national security, chemical and biological weapons proliferation, nuclear nonproliferation, or missile technology; or
+               
+               (ii) For reasons relating to regional stability or surreptitious listening;
+          
+          (3) Specially designed and prepared nuclear equipment, parts and components, materials, software, and technology covered by part 810 of title 10, Code of Federal Regulations (relating to assistance to foreign atomic energy activities);
+           
+           (4) Nuclear facilities, equipment, and material covered by part 110 of title 10, Code of Federal Regulations (relating to export and import of nuclear equipment and material);
+           
+           (5) Select agents and toxins covered by part 331 of title 7, Code of Federal Regulations, part 121 of title 9 of such Code, or part 73 of title 42 of such Code; or
+          
+          (6) Emerging and foundational technologies controlled pursuant to section 1758 of the Export Control Reform Act of 2018 (50 U.S.C. 4817).
+     “Substantial or essential component” means any component necessary for the proper function or performance of a piece of equipment, system, or service.
+      
+      (b) Prohibition. Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. The Contractor is prohibited from providing to the Government any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception at paragraph (c) of this clause applies or the covered telecommunication equipment or services are covered by a waiver described in Federal Acquisition Regulation [4.2104](https://www.acquisition.gov/far/part-4).
+      
+      (c) Exceptions. This clause does not prohibit contractors from providing—
+          
+          (1) A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+           
+           (2) Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+      
+      (d) Reporting requirement. (1) In the event the Contractor identifies covered telecommunications equipment or services used as a substantial or essential component of any system, or as critical technology as part of any system, during contract performance, or the Contractor is notified of such by a subcontractor at any tier or by any other source, the Contractor shall report the information in paragraph (d)(2) of this clause to the Contracting Officer, unless elsewhere in this contract are established procedures for reporting the information; in the case of the Department of Defense, the Contractor shall report to the website at [https://dibnet.dod.mil](https://dibnet.dod.mil/portal/intranet/). For indefinite delivery contracts, the Contractor shall report to the Contracting Officer for the indefinite delivery contract and the Contracting Officer(s) for any affected order or, in the case of the Department of Defense, identify both the indefinite delivery contract and any affected orders in the report provided at [https://dibnet.dod.mil](https://dibnet.dod.mil/portal/intranet/).
+           
+           (2) The Contractor shall report the following information pursuant to paragraph (d)(1) of this clause
+                
+                (i) Within one business day from the date of such identification or notification: the contract number; the order number(s), if applicable; supplier name; supplier unique entity identifier (if known); supplier Commercial and Government Entity (CAGE) code (if known); brand; model number (original equipment manufacturer number, manufacturer part number, or wholesaler number); item description; and any readily available information about mitigation actions undertaken or recommended.
+                (ii) Within 10 business days of submitting the information in paragraph (d)(2)(i) of this clause: any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of covered telecommunications equipment or services, and any additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services.
+      
+      (e) Subcontracts. The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial items.
+**(End of clause)**
+
+**GSAR clause 552.204-70 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2019)**
+
+(a) Definitions. As used in this clause “covered telecommunications equipment or services", "Critical technology", and “substantial or essential component" have the meanings provided in FAR 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. 
+
+(b) Prohibition. Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. Contractors are not prohibited from providing- 
+
+ (1) A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or 
+
+ (2) Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
+ (c) Representation. [Contractor to complete and submit to the Contracting Officer] The Offeror or Contractor represents that it [ ] will or [ ] will not provide covered telecommunications equipment or services to the Government in the performance of any contract, subcontract, order, or other contractual instrument resulting from this contract. This representation shall be provided as part of the proposal and resubmitted on an annual basis from the date of award. 
+
+(d) Disclosures. If the Offerer or Contractor has responded affirmatively to the representation In paragraph (c) of this clause, the Offeror or Contractor shall provide the following additional information to the Contracting Officer-- 
+
+ (1) All covered telecommunications equipment and services offered or provided (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable); 
+
+ (2) Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision; 10 
+
+ (3) For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and 
+ 
+ (4) For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known). 
+
+**(End of clause)**
+
+**FAR 52.217-8 Option to Extend Services (Nov 1999)**
+
+The Government may require continued performance of any services within the limits and at the rates specified in the contract. These rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance hereunder shall not exceed 6 months. The Contracting Officer may exercise the option by written notice to the Contractor within one day of the option start.
+
+**FAR 52.217-9 Option to Extend the Term of the Contract (Mar 2000)**
+
+(a) The Government may extend the term of this contract by written notice to the Contractor within one calendar day before the contract expires; provided that the Government gives the Contractor a pre­liminary written notice of its intent to extend at least five calendar days before the contract expires. The preliminary notice does not commit the Government to an extension.
+
+(b) If the Government exercises this option, the extended contract shall be considered to include this option clause.
+
+(c) The total duration of this contract, including the exercise of any options under this clause, shall not exceed five years and six months (66 months).
+
+
+
+
+
+
