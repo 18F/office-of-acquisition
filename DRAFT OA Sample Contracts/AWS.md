@@ -191,13 +191,13 @@ The reseller shall never provide a non-TTS entity, individual, or commercial Sof
  
 TTS envisions an increasing number of TTS CSP Master Accounts will be required throughout the term of the requirement to separate and organize accounts associated with a diverse number of missions, projects, and programs. The reseller shall provide additional TTS CSP Master Accounts upon request at no additional charge. TTS requests for new CSP Master Accounts shall be provisioned by the reseller within three business days. The number of Member Accounts that may be managed by the reseller for purposes of consolidated billing is estimated at 300-5,000, although the actual count may be higher or lower.
 
-## 4.4 CSP Account Holder Information
+### 4.4 CSP Account Holder Information
 
 For all intents and purposes, TTS shall be considered the “Account Holder” of CSP Linked/Member Accounts, under TTS’s Dedicated Master Payer Account(s), supported under this requirement, with all associated rights and responsibilities, excluding the direct payment to the awarded CSP, which will be the responsibility of the reseller as described in the requirement for Consolidated Billing. TTS’s role as the “Account Holder” explicitly includes TTS’s unrestricted and exclusive rights and ownership of all data placed into the Accounts by TTS, all TTS-developed and TTS-licensed software operating within the Account, and all mechanisms configured, constructed, or developed by TTS for purposes of operating TTS workloads, applications, and services within the Account.
  
 No system integration services are being acquired via this award such that the reseller would be required, or be allowed, to develop, apply, or create reseller intellectual property to configure, operate, or support TTS data, TTS workloads, TTS applications, and TTS services within TTS CSP Accounts. As a condition of award acceptance, the reseller agrees it will not subsequently claim ownership of, nor intellectual and other types of property rights to, any of the above assets operating within a TTS CSP Account for which the reseller is providing consolidated billing services and will help TTS transfer all data when the order ends.
 
-## 4.5 Administrative Account Transfer
+### 4.5 Administrative Account Transfer
 
 TTS intends to acquire cloud services under this requirement up to the value and duration stated, subject to demand. However, TTS retains the right, no sooner than one year after requirement award, to administratively transfer, with at least 60-days notice, its CSP Accounts to another reseller, integrator, federal contractor, or federal agency should TTS determine this is in the Government’s best interest.
  
@@ -205,11 +205,11 @@ In order to accomplish the seamless transfer of a TTS CSP Linked Account to anot
  
 Similarly, the reseller shall facilitate the transfer of all TTS CSP accounts in the manner indicated above when either the term or the estimated dollar value of the BPA is reached. Reseller shall deliver the data, at no extra cost and in a format of TTS’ choosing, no more than 30 days after the Contracting Officer’s written notification. 
 
-## 4.6 United States Based Ownership, Location, and Staffing
+### 4.6 United States Based Ownership, Location, and Staffing
 
 TTS requires a reseller entity that is U.S. owned, will administer the requirement only from a United States based location, and only assign U.S citizens to administer the requirement (i.e., provide consolidated billing services and provision Master Accounts). 
 
-## 4.7 Percentage Discounts
+### 4.7 Percentage Discounts
 
 The percent (%) discount applies to the CSP’s entire catalog of commercial services and ancillary services provided. 
 
@@ -221,7 +221,7 @@ Since TTS users of information technology are both extremely aware of published 
 
 TTS requires a minimum discount percentage across all CSPs that would be credited by the reseller on each monthly invoice based on the total amount of resources consumed and invoiced to TTS for the month per CSP. This will enable any discount to be immediately realized by individual TTS customers instead of waiting for particular cost thresholds to be met in future months, since it is possible the customer may have completed their use of any of the CSPs by the time the credits are applied by the reseller. 
 
-## 4.8 CSP Commercial Rates
+### 4.8 CSP Commercial Rates
 
 Any price drop of commercial pricing during any period of performance becomes effective at the same time the drop becomes effective with the CSP. During any period of performance, the contractor shall supply their Schedule Contract (or other catalog pricing tool/dashboard if TTS doesn’t already have native access) prices for each CSP upon request within three business days.
 
