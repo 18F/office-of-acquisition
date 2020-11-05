@@ -1,5 +1,3 @@
-# .github
-default-community-health
 # Office of Acquisition
 
 ## Our mission
