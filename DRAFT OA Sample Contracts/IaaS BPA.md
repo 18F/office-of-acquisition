@@ -1,3 +1,5 @@
+[Related RFQ](https://github.com/18F/office-of-acquisition/blob/master/DRAFT%20OA%20Sample%20RFQs/IaaS%20RFQ.md)
+
 ## 1.0 General
 
 This single award BPA is established under the contractor’s Federal Supply Schedule (‘FSS’ or just ‘Schedule) Contract (TBD at time of award), under Schedule 70 Special Item Number (SIN) 132-40, for Cloud Service Provider (CSP) Infrastructure-as-a-Service (IaaS) cloud services.
